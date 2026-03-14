@@ -1,0 +1,16 @@
+# Wireshark Incident Response Analysis
+
+This project documents the investigation of a malware incident using Wireshark.
+
+## Key Tasks
+- HTTP traffic filtering
+- Identification of victim IP address
+- Analysis of malicious POST request
+- Attribution of activity to a user account
+
+## Tools Used
+- Wireshark
+- Network packet analysis
+
+## Documentation
+See the PowerPoint report included in this repository.
